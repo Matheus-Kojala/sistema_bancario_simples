@@ -15,12 +15,13 @@ Neste projeto, recriei um sistema bancário simples e funcional, simulando as op
 - 💰 **Depósito ↗️**: Permite depositar qualquer valor positivo na conta.
 - 💳 **Saque ↘️**: Realiza saques, considerando o saldo disponível, limite de saques diários e valor máximo por operação.
 - 📜 **Extrato**: Exibe o histórico de todas as transações (depósitos e saques) e o saldo atual.
+- 🧾 **Nova Conta (na)**: Cria uma nova conta bancária.
+- 📋 **Listar Contas (la)**: Lista todas as contas criadas.
 
 ## Recursos Adicionais:
 
 - 🔒 **Limite de Saques**: 3 saques por dia.
 - 💸 **Valor Máximo por Saque**: R$ 500,00.
-- 📄 **Extrato Detalhado**: Mostra data, hora e valor de cada transação.
 
 Este projeto foi uma excelente oportunidade para:
 
@@ -29,7 +30,7 @@ Este projeto foi uma excelente oportunidade para:
 - 🧠 **Resolução de Problemas**: Encontrei e solucionei problemas durante o desenvolvimento, aprimorando meu raciocínio lógico.
 - 🎨 **Autonomia e Criatividade**: Adaptei o código e implementei funcionalidades adicionais, explorando minha criatividade.
 
-**Código Aberto**: O código está disponível no [GitHub](https://github.com/seuusuario/seuprojeto) para que você possa explorá-lo, aprender e contribuir.
+**Código Aberto**: O código está disponível no [GitHub](https://github.com/Matheus-Kojala/sistema_bancario_simples) para que você possa explorá-lo, aprender e contribuir.
 
 **Sugestões e Feedback**: Sinta-se à vontade para enviar sugestões de melhorias e contribuir para o desenvolvimento do projeto.
 
